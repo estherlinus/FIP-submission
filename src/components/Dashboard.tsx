@@ -7,8 +7,6 @@ import {
   LogOut,
   Search,
   Filter,
-  Plus,
-  FileText,
   TrendingUp,
   User,
 } from "lucide-react";
